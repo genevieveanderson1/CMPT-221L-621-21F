@@ -5,10 +5,12 @@ body {
     border: 20px #bdc3c7 solid;
     padding: 20px;
     font-family: "Source Sans Pro";
+    background-color: #bdc3c7;
 }
 
 h2 {
     font-size: 2.0rem;
+    color: orange
 }
 
 #initialHeader {
